@@ -1,0 +1,31 @@
+body{
+    background-image: url(images/colorfull.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment:fixed;
+}
+
+
+h1{
+    height:60px;
+    text-align: center;
+    
+    padding:20px ;
+    background-color: rgb(235, 106, 14);
+    color:white;
+   
+}
+.add-tasks{
+    border:2px solid black;
+    border-radius: 10px;
+    width:50%;
+    text-align: center;
+   margin:50px auto;
+   padding:10px;
+}
+h2{
+    margin: 20px;
+}
+.things-to-do{
+    list-style-type: circle;
+}
